@@ -5,5 +5,5 @@
 clear
 date
 read -p "¿Cómo te llamas ?" nombre
-echo "Bienvenidos, nombre"
+echo "Bienvenidos, $nombre"
 
